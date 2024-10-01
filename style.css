@@ -111,6 +111,8 @@ ul {
 }
 
 footer {
+  font-family: "Alice", sans-serif;
+  line-height: 150%;
   text-align: center;
 }
 
